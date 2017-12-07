@@ -10,7 +10,7 @@ namespace githubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fuck the World");
+            Console.WriteLine("Joakim er nice");
         }
     }
 }
