@@ -22,6 +22,8 @@ namespace githubTest
         static void MethodB()
         {
             Console.WriteLine("Ja det er jeg metode A!");
+
+            Console.ReadKey();
         }
     }
 }
