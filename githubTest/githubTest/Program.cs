@@ -23,7 +23,11 @@ namespace githubTest
         {
             Console.WriteLine("Ja det er jeg metode A!");
 
+
+            Console.WriteLine("Hej flemse");
             Console.ReadKey();
+
+
         }
     }
 }
