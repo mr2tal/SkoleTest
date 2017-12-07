@@ -10,7 +10,18 @@ namespace githubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Joakim er nice");
+            MethodA();
+        }
+
+        static void MethodA()
+        {
+            Console.WriteLine("er du der metode B?");
+            MethodB();
+        }
+
+        static void MethodB()
+        {
+            Console.WriteLine("Ja det er jeg metode A!");
         }
     }
 }
